@@ -40,8 +40,8 @@ I'm continuously learning and evolving, so you can expect my repositories to ref
 
 I'm open to collaborations, discussions, and feedback. Feel free to reach out to me via:
 
-- **Email** : bajajpuneet223@gmail.com
-- **LinkedIn**: https://linkedin.com//Puneet-Bajaj-IITM
+- **Email** :  [Puneet-Bajaj](bajajpuneet223@gmail.com)
+- **LinkedIn**: [Puneet-Bajaj]( https://linkedin.com//puneet-bajaj-iitm)
 
 Don't hesitate to get in touch if you have any questions, want to collaborate on a project, or just want to connect. I'm excited to engage with fellow developers and learners.
 
