@@ -29,13 +29,12 @@ Hi! I'm **Puneet Bajaj**, a versatile AI specialist and full-stack developer wit
 - **Google Advanced Data Analytics Specialization**  
 - **DeepLearning.AI MLOps Specialization**  
 - **Google Cybersecurity Certificate**  
-- Recognized by **Harvard University** for excellence in AI problem-solving challenges.  
 
 ---
 
 ### 🌟 Achievements  
 
-- **Top 1%** in IIT JEE (1.2M candidates).  
+- **Top 1%** in IIT JEE Main (1.2M candidates).  
 - Awarded by **Indian Association of Physics Teachers** for outstanding experimental physics.  
 - **96.4% in CBSE Class 12**, excelling in PCM.  
 
