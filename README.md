@@ -2,7 +2,7 @@
 
 Founding engineer at [BluePill AI](https://blue-pill.ai) — first engineer from day one. I built the first version of the product end to end and now scale it with a growing team: an AI consumer-insights platform where brands run surveys, concept tests and focus groups against AI twins of real audiences. I own the Python/FastAPI backend, most of the React/TypeScript front end, the PostgreSQL and AWS layer, and the evaluation harnesses that tell us whether a twin actually sounds like its person. That foundation took the company from $0 to $6.25M in funding.
 
-On the side I run [RKS Technologies](https://rks-technologies.in), a small studio shipping consumer apps in Flutter and Firebase, and I'm finishing a B.S. in Data Science at IIT Madras. Based in Bengaluru.
+On the side I run [RKS Technologies](https://rks-technologies.in), a small studio shipping consumer apps in Flutter and Firebase, and I'm finishing a B.S. in Data Science at IIT Madras. Based in Punjab.
 
 ## What I do
 
