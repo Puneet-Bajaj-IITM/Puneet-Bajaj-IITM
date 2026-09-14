@@ -6,7 +6,19 @@ On the side I ship consumer apps in Flutter and Firebase under [RKS Technologies
 
 ## Selected work
 
-
+| Project | What it is |
+|---|---|
+| [live-multimodal-voice-agent](https://github.com/Puneet-Bajaj-IITM/live-multimodal-voice-agent) | Real-time voice and camera agent on the Gemini Live API: ADK multi-agent backend, FastAPI, PCM audio over WebSocket, Cloud Run + Terraform. |
+| [decentralized-model-registry](https://github.com/Puneet-Bajaj-IITM/decentralized-model-registry) | Model registry where uploads are pinned to IPFS, voted on in a Matrix room and anchored on IOTA. Flask, Celery, React. |
+| [llm-annotation-review-platform](https://github.com/Puneet-Bajaj-IITM/llm-annotation-review-platform) | Multi-user Gradio + PostgreSQL workbench for scoring LLM responses against rubrics, with locked work handout. |
+| [document-rag-chatbot](https://github.com/Puneet-Bajaj-IITM/document-rag-chatbot) | Flask RAG API over uploaded documents: Chroma retrieval, Ollama embeddings, Groq or OpenAI generation, server-side sessions. |
+| [garment-defect-detection](https://github.com/Puneet-Bajaj-IITM/garment-defect-detection) | YOLOv8 stitch and defect quality control for a garment line, keyed to barcode-scanned production sessions. |
+| [face-gate-transit](https://github.com/Puneet-Bajaj-IITM/face-gate-transit) | Face-recognition transit fare gate: Next.js + Firebase front end, Flask + FaceNet backend, Arduino-driven servo gate. |
+| [smart-city-iot-pipeline](https://github.com/Puneet-Bajaj-IITM/smart-city-iot-pipeline) | MQTT sensor mesh → Kafka → SQLite on Kubernetes with per-topic autoscaling. |
+| [BhaktiApp](https://github.com/Puneet-Bajaj-IITM/bhaktiapp) | Daily spiritual companion: japa counter with multi-sensory feedback, 50 curated mantras, AI recommendations, streaks. Flutter + Firebase, published by RKS Technologies. |
+| [script-audio-matcher](https://github.com/Puneet-Bajaj-IITM/script-audio-matcher) | Streamlit + Flask pipeline that classifies scripts, translates narration with Whisper and scores the match. |
+| [benchmark-survey-report](https://github.com/Puneet-Bajaj-IITM/benchmark-survey-report) | SurveyJS self-assessment scored against category benchmarks, with a printable report. React + Vite. |
+| [tds-course-assistant](https://github.com/Puneet-Bajaj-IITM/tds-course-assistant) | FastAPI + OpenAI RAG service answering IIT Madras "Tools in Data Science" questions from course notes and forum threads. |
 
 ## Before BluePill
 
