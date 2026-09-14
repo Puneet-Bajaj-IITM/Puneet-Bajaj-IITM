@@ -25,6 +25,3 @@ On the side I ship consumer apps in Flutter and Firebase, publish some open-sour
 - **Python & ML Developer, Digital Divide Data** (2024–2025) — Data labeling and human-feedback tooling for AI R&D: annotation interfaces, ranking and evaluation UIs for fine-tuning, and ingestion, annotation and export pipelines with AI-assisted labeling in the loop. Deployed on AWS for concurrent multi-user use.
 - **AI Solutions Architect, AiiQ** (2024–2025) — Built the AiiQ Engine, an AI assistant for turbine experts grounded in proprietary turbine data. Designed the agent loop, retrieval and ingestion, customer data handling, and a provider-agnostic LLM layer.
 - **Independent engineer** (2023–2025) — Custom AI/ML for clients worldwide; 5-star rating and Preferred Freelancer status on Freelancer.
-
-## Contact
-[LinkedIn](https://www.linkedin.com/in/puneet-bajaj-iitm)
