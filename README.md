@@ -2,7 +2,7 @@
 
 Founding engineer at [BluePill AI](https://blue-pill.ai), first engineer from day one. BluePill is an AI consumer-insights platform where brands run surveys, concept tests and focus groups against AI twins of real audiences. I built the first version end to end and now own the AI twin layer, the human survey platform, focus-group chat, and the evaluation harnesses that tell us whether a twin actually sounds like its person. Python/FastAPI, React/TypeScript, PostgreSQL, AWS.
 
-On the side I ship consumer apps in Flutter and Firebase under [RKS Technologies](https://rks-technologies.in) (BhaktiApp is one), publish small open-source projects, and am finishing a B.S. in Data Science at IIT Madras. Based in Punjab.
+On the side I ship consumer apps in Flutter and Firebase, publish some open-source projects, and am finishing a B.S. in Data Science at IIT Madras. Based in Punjab.
 
 ## Selected work
 
