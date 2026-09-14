@@ -1,42 +1,15 @@
 # Puneet Bajaj
 
-Founding engineer at [BluePill AI](https://blue-pill.ai) — first engineer from day one. I built the first version of the product end to end and now scale it with a growing team: an AI consumer-insights platform where brands run surveys, concept tests and focus groups against AI twins of real audiences. I own the Python/FastAPI backend, most of the React/TypeScript front end, the PostgreSQL and AWS layer, and the evaluation harnesses that tell us whether a twin actually sounds like its person. That foundation took the company from $0 to $6.25M in funding.
+Founding engineer at [BluePill AI](https://blue-pill.ai) — first engineer from day one. An AI consumer-insights platform where brands run surveys, concept tests and focus groups against AI twins of real audiences. I own the AI Twin layer, Human Survey Platform, Focus group chat and the evaluation harnesses that tell us whether a twin actually sounds like its person.
 
-On the side I run [RKS Technologies](https://rks-technologies.in), a small studio shipping consumer apps in Flutter and Firebase, and I'm finishing a B.S. in Data Science at IIT Madras. Based in Punjab.
-
-## What I do
-
-- **LLM systems in production** — multi-agent chat, agentic workflows, retrieval, prompt and eval pipelines across OpenAI, Anthropic, Google and open-weight models.
-- **Evaluation** — judge-based fidelity scoring, holdout designs, noise floors. A metric only counts if it moves less on identical input than it does between conditions.
-- **Backend** — Python 3.12, FastAPI, Socket.IO, Celery and Redis, asyncpg and PostgreSQL, Docker, AWS.
-- **Frontend** — React 18, TypeScript, Vite, Tailwind, shadcn/ui; Next.js when it fits.
-- **Mobile** — Flutter and Firebase, published under RKS Technologies.
-
-## Selected work
-
-| Project | What it is |
-|---|---|
-| [BluePill AI](https://blue-pill.ai) | AI twins of real consumers for market research. Founding engineer, Apr 2025 – present. Private codebase. |
-| [BhaktiApp](https://github.com/Puneet-Bajaj-IITM/bhaktiapp) | Daily spiritual companion: japa counter with multi-sensory feedback, 50 curated mantras, AI recommendations, streaks. Flutter + Firebase, published by RKS Technologies. |
-| [live-multimodal-voice-agent](https://github.com/Puneet-Bajaj-IITM/live-multimodal-voice-agent) | Real-time voice and camera agent on the Gemini Live API: ADK multi-agent backend, FastAPI, PCM audio over WebSocket, Cloud Run + Terraform. |
-| [decentralized-model-registry](https://github.com/Puneet-Bajaj-IITM/decentralized-model-registry) | Model registry where uploads are pinned to IPFS, voted on in a Matrix room and anchored on IOTA. Flask, Celery, React. |
-| [llm-annotation-review-platform](https://github.com/Puneet-Bajaj-IITM/llm-annotation-review-platform) | Multi-user Gradio + PostgreSQL workbench for scoring LLM responses against rubrics, with locked work handout. |
-| [document-rag-chatbot](https://github.com/Puneet-Bajaj-IITM/document-rag-chatbot) | Flask RAG API over uploaded documents: Chroma retrieval, Ollama embeddings, Groq or OpenAI generation, server-side sessions. |
-| [garment-defect-detection](https://github.com/Puneet-Bajaj-IITM/garment-defect-detection) | YOLOv8 stitch and defect quality control for a garment line, keyed to barcode-scanned production sessions. |
-| [face-gate-transit](https://github.com/Puneet-Bajaj-IITM/face-gate-transit) | Face-recognition transit fare gate: Next.js + Firebase front end, Flask + FaceNet backend, Arduino-driven servo gate. |
-| [smart-city-iot-pipeline](https://github.com/Puneet-Bajaj-IITM/smart-city-iot-pipeline) | MQTT sensor mesh → Kafka → SQLite on Kubernetes with per-topic autoscaling. |
-| [script-audio-matcher](https://github.com/Puneet-Bajaj-IITM/script-audio-matcher) | Streamlit + Flask pipeline that classifies scripts, translates narration with Whisper and scores the match. |
-| [benchmark-survey-report](https://github.com/Puneet-Bajaj-IITM/benchmark-survey-report) | SurveyJS self-assessment scored against category benchmarks, with a printable report. React + Vite. |
-| [tds-course-assistant](https://github.com/Puneet-Bajaj-IITM/tds-course-assistant) | FastAPI + OpenAI RAG service answering IIT Madras "Tools in Data Science" questions from course notes and forum threads. |
-
-Client-derived projects are published in de-identified form under the PolyForm Noncommercial licence.
+On the side I run [RKS Technologies](https://rks-technologies.in), a small studio shipping consumer apps in Flutter and Firebase, and I'm finishing a B.S. in Data Science at IIT Madras. Based in Punjab. All work of RKS is open source.
 
 ## Before BluePill
 
-- **Python & ML Developer, Digital Divide Data** (2024–2025) — data-labelling interfaces and ingestion, annotation and export pipelines for AI R&D, deployed on AWS for concurrent multi-user access.
-- **AI Solutions Architect, AiiQ** (2024–2025) — LLM-powered web apps on MERN and Next.js with LangChain, OpenAI, Anthropic, Google and Groq; production WordPress chatbot plugins.
-- **Independent engineer** (2023–2025) — custom AI/ML for clients worldwide; 5-star rating and Preferred Freelancer status on Upwork and Freelancer.
+- **Python & ML Developer, Digital Divide Data** (2024–2025) — Built scalable data labeling interfaces and pipelines for AI R&D teams: ingestion, annotation, and export, with AI-assisted labeling in the loop. Deployed on AWS for concurrent multi-user use.
+- **AI Solutions Architect, AiiQ** (2024–2025) — Worked on AIIQ Engine, an AI enabled engine for turbine experts grounded in decades of proprietary turbine data. Designed the agent loop, data ingestion, retrieval, integration and customer data handling, and a provider-agnostic layer
+- **Independent engineer** (2023–2025) — custom AI/ML for clients worldwide; 5-star rating and Preferred Freelancer status on Freelancer.
 
 ## Contact
 
-puneet@blue-pill.ai · bajajpuneet223@gmail.com · [puneetbajaj.dev](https://puneetbajaj.dev) · [LinkedIn](https://www.linkedin.com/in/puneet-bajaj-iitm)
+[puneetbajaj.dev](https://puneetbajaj.dev) · [LinkedIn](https://www.linkedin.com/in/puneet-bajaj-iitm)
