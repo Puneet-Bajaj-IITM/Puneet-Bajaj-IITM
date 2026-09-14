@@ -27,5 +27,4 @@ On the side I ship consumer apps in Flutter and Firebase, publish some open-sour
 - **Independent engineer** (2023–2025) — Custom AI/ML for clients worldwide; 5-star rating and Preferred Freelancer status on Freelancer.
 
 ## Contact
-
-[puneetbajaj.dev](https://puneetbajaj.dev) · [LinkedIn](https://www.linkedin.com/in/puneet-bajaj-iitm)
+[LinkedIn](https://www.linkedin.com/in/puneet-bajaj-iitm)
