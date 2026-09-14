@@ -21,7 +21,7 @@ On the side I ship consumer apps in Flutter and Firebase, publish some open-sour
 | [tds-course-assistant](https://github.com/Puneet-Bajaj-IITM/tds-course-assistant) | FastAPI + OpenAI RAG service answering IIT Madras "Tools in Data Science" questions from course notes and forum threads. |
 
 ## Before BluePill
-
+- **Backend Engineer (freelance), Forkit Dev** (Nov 2024 – Nov 2025) — Built the backend for TrustChain AI, a decentralized federated-learning research framework on Matrix and the IOTA Tangle, led by Forkit Dev's founder before the company was incorporated in Apr 2025: model storage and sharing with end-to-end lineage tracking, IOTA anchoring, secure backend services, and distributed model-validation workflows. From Apr 2025, part-time alongside BluePill on Forkit Dev's early backend foundation until July, then minor frontend work through Nov 2025.
 - **Python & ML Developer, Digital Divide Data** (2024–2025) — Data labeling and human-feedback tooling for AI R&D: annotation interfaces, ranking and evaluation UIs for fine-tuning, and ingestion, annotation and export pipelines with AI-assisted labeling in the loop. Deployed on AWS for concurrent multi-user use.
 - **AI Solutions Architect, AiiQ** (2024–2025) — Built the AiiQ Engine, an AI assistant for turbine experts grounded in proprietary turbine data. Designed the agent loop, retrieval and ingestion, customer data handling, and a provider-agnostic LLM layer.
 - **Independent engineer** (2023–2025) — Custom AI/ML for clients worldwide; 5-star rating and Preferred Freelancer status on Freelancer.
