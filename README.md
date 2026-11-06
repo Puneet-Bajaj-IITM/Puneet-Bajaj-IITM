@@ -4,6 +4,12 @@ Founding engineer at [BluePill AI](https://blue-pill.ai), first engineer from da
 
 On the side I ship consumer apps in Flutter and Firebase, publish some open-source projects, and am finishing IIT Madras's BS in Data Science and Applications, the institute's online degree programme. Based in Punjab.
 
+Website: [puneet-bajaj-iitm.github.io](https://puneet-bajaj-iitm.github.io)
+
+## Writing
+
+- [Simulated Crowds: Why Sounding Real Isn't Enough](https://puneet-bajaj-iitm.github.io/papers/simulated-crowds.html) — working paper, Nov 2026 ([PDF](https://puneet-bajaj-iitm.github.io/papers/simulated-crowds.pdf)). Understanding how synthetic consumers are built, where predictions fail, and why differences between people matter.
+
 ## Selected work
 
 | Project | What it is |
